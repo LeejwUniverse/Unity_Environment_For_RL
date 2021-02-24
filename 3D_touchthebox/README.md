@@ -1,4 +1,4 @@
-# 3D Touch the box envrionment
+# 3D Touch the box environment
 
 - - -
 ### Play example

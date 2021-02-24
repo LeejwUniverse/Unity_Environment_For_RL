@@ -9,14 +9,17 @@
 ## env info
 * Agent type: Single
 * State space: 21
+
 |Type|Detail|Space|
 |---|---|---|
 |Agent position|x, y, z|3|
 |Agent velocity|x, z|2|
 |Box position|x, y, z|3 * 4|
 |Box Color flag|0 or 1|4|
+
 * Action space: 2 (Continuous)
 * Reward
+
 |Type|Detail|
 |---|---|
 |Touch the box|+1|

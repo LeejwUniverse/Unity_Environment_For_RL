@@ -1,12 +1,13 @@
 # 3D Touch the box envrionment
 
 - - -
-#### Play example
+### Play example
 <div align="center">
     <img src="https://github.com/LeejwUniverse/Unity_Environment_For_RL/blob/master/3D_touchthebox/etc/env_gif.gif" width="500">
 </div>
 
-## env info
+- - -
+## Env info
 * Agent type: Single
 * State space: 21
 
